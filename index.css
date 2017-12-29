@@ -1,0 +1,48 @@
+img{
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+	padding: 20px;
+	padding-top: 0;
+}
+#mynavbar{
+	float: right;
+	font-size: 20px;
+}
+#intro{
+	float: right;
+	border-style: dotted;
+	border-width: 1px;
+	padding: 5%;
+}
+.myintro{
+	font-size: 18px; 
+}
+.title{
+	color: #9e7d6d;
+	padding: 5px 20px;
+}
+#about , #edu , #skill, #link {
+	background: #DDD;
+	border-radius: 20px;
+	padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px; 
+}
+#about h4, #skill h4{
+	color: #b75f12;
+}
+#about h3, #edu h3, #skill h3, #link h3{
+	text-align: center;
+	color: #5e64a5;
+}
+footer{
+	background: #222;
+	color: #fff;
+	padding: 20px;
+}
+
+
+
+
+
